@@ -19,9 +19,9 @@
 
 <h2>💼Current Work </h2>
 
-Passionate about the stuff like Web development and Machine learning. like programming in python,C and java. 
+Passionate about the stuff like Web development and Machine learning. like programming in python, C and java. 
 
-- Working,Learning and growing skillset in Deep Learning, Competitive Programming, Data Structures and Algorithm.
+- Working, Learning and growing skillset in Deep Learning, Competitive Programming, Data Structures and Algorithm.
 - Looking for opportunities for an internships.
 - Open for collaboration for Web Development.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yusufkhan004" alt="yusufkhan004" /> </p>
