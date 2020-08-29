@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋,This is Yusuf Ali <i> (Aviator) </i></h2>
-<h3 align="left"> <i>Inquisitive Computer Science Student <i></h3>
+<h3 align="left"> <i>Inquisitive Computer Science Student </i></h3>
 
 <h2> 💻 Interest In Technologies</h2>
 
