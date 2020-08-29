@@ -15,7 +15,7 @@
 <br>
 <h2>👦🏻 About Me</h2>
 
-- Name = "Yusuf Ali Khan" - College = (Pursuing Graduation in M.H. Saboo Siddik College Of Engineering) - Hobbies = {'🐞 Bug finder','🦉 Night lover','🎤Avg. Singer'} - Location = "🌆 Mumbai" and many more ambitions   
+- <b>Name</b> = "Yusuf Ali Khan" - <b>College</b> = (Pursuing Graduation in M.H. Saboo Siddik College Of Engineering) - <b>Hobbies</b> = {'🐞 Bug finder','🦉 Night lover','🎤Avg. Singer'} - <b>Location</b> = "🌆 Mumbai" and <i>many more ambitions.</i>   
 
 <h2>💼Current Work </h2>
 
