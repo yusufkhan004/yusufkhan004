@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋,This is Yusuf Ali (aka = **Aviator** ) </h2>
+<h2 align="left">Hi 👋,This is Yusuf Ali *Aviator* </h2>
 <h3 align="left">Inquisitive Computer Science Student</h3>
 
 <h2> 💻 Interest In Technologies</h2>
