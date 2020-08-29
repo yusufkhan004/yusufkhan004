@@ -31,7 +31,7 @@ Passionate about the stuff like Web development and Machine learning. like progr
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufkhan004&show_icons=true" alt="yusufkhan004" /></p>
 
 <p align="center">
-<a href="https://instagram.com/yusuf__khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yusuf__khan" height="30" width="30" /></a>
+<a href="https://instagram.com/yusuf___khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yusuf__khan" height="30" width="30" /></a>
     &nbsp
 <a href="https://fb.com/yusuf khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yusuf khan" height="30" width="30" /></a>
   &nbsp
