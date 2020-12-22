@@ -15,8 +15,14 @@
 <br>
 <h2>👦🏻 About Me</h2>
 
-- <b>Name</b> = "Yusuf Ali Khan" - <b>College</b> = (Pursuing Graduation in M.H. Saboo Siddik College Of Engineering) - <b>Hobbies</b> = {'🐞 Bug finder','🦉 Night lover','🎤Avg. Singer'} - <b>Location</b> = "🌆 Mumbai" and <i>many more ambitions.</i>   
-
+- <b>Name</b> = "Yusuf Ali Khan" 
+<br>
+<b> College</b> = (Pursuing Graduation in M.H. Saboo Siddik College Of Engineering) 
+<br>
+<b>Hobbies</b> = {'🐞 Bug finder','🦉 Night lover','🎤Avg. Singer'} 
+<br>
+<b>Location</b> = "🌆 Mumbai" and <i>many more ambitions.</i>   
+<br>
 <h2>💼Current Work </h2>
 
 Passionate about the stuff like Web development and Machine learning. like programming in python, C and java. 
