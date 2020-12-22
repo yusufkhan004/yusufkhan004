@@ -39,7 +39,7 @@ Passionate about the stuff like Web development and Machine learning. like progr
 <p align="center">
 <a href="https://instagram.com/yusuf___khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yusuf__khan" height="30" width="30" /></a>
     &nbsp
-<a href="https://fb.com/khanyusuf007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yusuf khan" height="30" width="30" /></a>
+<a href="https://fb.com/khanyusufoo7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yusuf khan" height="30" width="30" /></a>
   &nbsp
   <a href="www.//linkedin.com/in/yusufkhan004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yusuf khan" height="30" width="30" /></a>
   &nbsp
