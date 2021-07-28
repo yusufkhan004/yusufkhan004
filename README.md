@@ -1,8 +1,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-  
 
-#### <ins><div align="center">I'm Yusuf, a full-time full-stack developer in making 🚀</div></ins>  
-  
+### <ins><div align="center">I'm Yusuf, a full-time full-stack developer in making 🚀</div></ins>  
 
 - 🔭 I’m currently an intern at Quantique Labs  
   
@@ -15,7 +13,7 @@
 
 <br/>  
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -32,7 +30,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" />  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -46,11 +44,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="25" />  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</tr></table>  
 
 <br/>  
 
@@ -78,14 +72,7 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yusufkhan004&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
+<br/> 
   
 
 <br/>  
@@ -96,13 +83,6 @@
   
 
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 
 
 
