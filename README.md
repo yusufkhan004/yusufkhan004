@@ -1,7 +1,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
 
-## <div align="center">Hi, there !!</div>  
+## <div align="center">Hi, there !!</div>
+
+
 <br/>
+
+
 ## <div align="center">I am Yusuf, B.E. student, Web developer in progress 🚀</div>
 
 - 🔭 Pursuing my internship at Quantique Labs.  
