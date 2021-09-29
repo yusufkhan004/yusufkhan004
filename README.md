@@ -1,11 +1,13 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
 
-## <div align="center">I'm Yusuf, a full-time full-stack developer in making 🚀</div>  
+## <div align="center">Hi, there !!</div>  
+<br/>
+## <div align="center">I am Yusuf, B.E. student, Web developer in progress 🚀</div>
 
-- 🔭 Currently, Doing my internship at Quantique Labs.  
+- 🔭 Pursuing my internship at Quantique Labs.  
   
 
-- 🌱 I’m currently learning MERN stack, Competitive Programming, Data Structures and Algorithm.  
+- 🌱 Carving my skillset in MERN stack, Problem solving approaches using Data Structures and Algorithm.  
   
 
 - ❓ Ask me about anything related to Problem solving and MERN stack technologies.  
@@ -42,7 +44,7 @@
 <br/>  
 
 
-## Connect with me  
+## Connect with me on  
 <div align="center">
 <a href="https://github.com/yusufkhan004" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
