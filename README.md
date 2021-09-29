@@ -2,13 +2,13 @@
 
 ## <div align="center">I'm Yusuf, a full-time full-stack developer in making 🚀</div>  
 
-- 🔭 I’m currently an intern at Quantique Labs  
+- 🔭 Currently, Doing my internship at Quantique Labs.  
   
 
 - 🌱 I’m currently learning MERN stack, Competitive Programming, Data Structures and Algorithm.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Problem solving and MERN stack technologies.  
   
 
 <br/>  
